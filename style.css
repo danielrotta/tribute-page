@@ -8,6 +8,10 @@ img {
     width: 25%;
 }
 
+li {
+    text-align: left;
+}
+
 /* --- id references --- */
 
 #title {
@@ -18,5 +22,5 @@ img {
 
 #tribute-info {
     background-color: lightgray;
-    /* text-align: left; */
+    text-align: center;
 }
