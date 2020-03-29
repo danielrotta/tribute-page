@@ -1,20 +1,36 @@
 h1 {
-    width: 25%;
-    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
 }
 img {
+    display: flex;
     width: 25%;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 
 /* --- classes --- */
+.main {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
 .img-div {
-    position: relative;
-    width: 770px;
-    height: 688px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 .image {
-
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
