@@ -1,3 +1,5 @@
+/* --- tags --- */
+
 h1 {
     margin-left: auto;
     margin-right: auto;
@@ -16,21 +18,10 @@ img {
     margin-right: auto;
 }
 
+/* --- id references --- */
 
-
-/* --- classes --- */
-.main {
-    display: flex;
+#link-div {
     margin-left: auto;
     margin-right: auto;
-}
-.img-div {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-}
-.image {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    width: 8em;
 }
