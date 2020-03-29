@@ -1,22 +1,22 @@
 /* --- tags --- */
 body {
-    background-color: lightgray;
+    background-color: lightblue;
     text-align: center;
 }
 
-
-h1 {
-    
-}
-h2 {
-    
-}
 img {
     width: 25%;
 }
 
 /* --- id references --- */
 
-#link-div {
+#title {
+    background-color: lightgray;
+    margin: 1em;
+    padding: 1em;
+}
 
+#tribute-info {
+    background-color: lightgray;
+    /* text-align: left; */
 }
