@@ -1,27 +1,22 @@
 /* --- tags --- */
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
 
 h1 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
+    
 }
 h2 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
+    
 }
 img {
-    display: flex;
     width: 25%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 /* --- id references --- */
 
 #link-div {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
+
 }
