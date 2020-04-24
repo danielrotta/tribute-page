@@ -21,6 +21,10 @@ ul {
     display: inline-block;
 }
 
+li {
+    margin: 10px;
+}
+
 /* --- id references --- */
 
 #title {
